@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @horpeyhemie
 - 👀 I’m interested in Product Designing 
 - 🌱 I’m currently learning Figma
-- 💞️ I’m looking to collaborate on UI/UX probects
+- 💞️ I’m looking to collaborate on UI/UX projects 
 - 📫 How to reach me odunayomiobanlagbeyi@gmail.com
 
 <!---
